@@ -10,7 +10,7 @@ pdsnd_github_Norah
 
 ### Description
 Describe what your project is about and what it does
-bikespace is project explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
+bikespace is project for explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
 
 ### Files used
 Include the files used
